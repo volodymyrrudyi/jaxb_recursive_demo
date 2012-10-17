@@ -1,0 +1,10 @@
+<data>
+	<structure>
+		<integer value="5" />
+		<string value="This is string" />
+		<structure>
+			<float value="0.5" />
+			<string value="This is a string inside a nested struct" /> 
+		</structure>
+	</structure>
+</data>
